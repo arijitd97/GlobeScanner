@@ -2,7 +2,7 @@ Sprint 3 -
 
 User Stories :
 
-1. Tourists and Guides can now view and edit their profiles.
+1. Tourists and Guides can now view and edit their profiles.[#37](https://https://github.com/arijitd97/GlobeScanner/issues/37)
 
 2. Travel Guide can add packages corresponding to a particular location.
 
