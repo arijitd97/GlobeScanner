@@ -25,11 +25,11 @@ Steps to run Tests:
 
 
 Functionality:
-Users can either be a Tourist or a Travel Guide.
-In the case of a travel guide, he/she can view and edit his profile. If a guide has added packages, they will be shown in his profile. This functionality will not be present for a tourist.
-Users can search for tourist spots in places and view packages corresponding to that place.
-A travel guide can add a package for a place in addition to viewing them.
-A package is a travel plan that a guide gives to a tourist and helps the tourist visit places in exchange for money.
+1. Users can either be a Tourist or a Travel Guide.
+2. In the case of a travel guide, he/she can view and edit his profile. If a guide has added packages, they will be shown in his profile. This functionality will not be present for a tourist.
+3. Users can search for tourist spots in places and view packages corresponding to that place.
+4. A travel guide can add a package for a place in addition to viewing them.
+5. A package is a travel plan that a guide gives to a tourist and helps the tourist visit places in exchange for money.
 
 
 API Docs - https://github.com/arijitd97/GlobeScanner/wiki/GlobeScanner-API-documentation
