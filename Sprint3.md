@@ -1,12 +1,18 @@
 Sprint 3 -
 
 User Stories :
-Tourists and Guides can now view and edit their profiles.
-Travel Guide can add packages corresponding to a particular location
-Travel guide can view the packages added by him.
-User can view packages corresponding to a particular location
-Users can check travel packages in an area.
-Few other bugs like CORS error and logout token deletion are also taken care of.
+
+1. Tourists and Guides can now view and edit their profiles.
+
+2. Travel Guide can add packages corresponding to a particular location.
+
+3. Travel guide can view the packages added by him.
+
+4. User can view packages corresponding to a particular location.
+
+5. Users can check travel packages in an area.
+
+6. Few other bugs like CORS error and logout token deletion are also taken care of.
 
 Video link - https://drive.google.com/drive/folders/1KBgnRkbSJnNvbFj6pbzOePTbTq08tdNg?usp=sharing
 
