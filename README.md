@@ -5,8 +5,8 @@
 ![alt text](https://github.com/arijitd97/GlobeScanner/blob/main/Logo.jpg?raw=true)
 
 
+![GlobeScanner](https://user-images.githubusercontent.com/56683039/164517733-d5fc8112-8ed7-4cf1-ad4a-14e655e974a6.gif)
 
-https://user-images.githubusercontent.com/56683039/164517083-6bad4489-08e3-4986-9f18-76cd7fd1b48c.mp4
 
 
 
