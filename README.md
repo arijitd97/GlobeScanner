@@ -4,6 +4,12 @@
 
 ![alt text](https://github.com/arijitd97/GlobeScanner/blob/main/Logo.jpg?raw=true)
 
+
+
+https://user-images.githubusercontent.com/56683039/164517083-6bad4489-08e3-4986-9f18-76cd7fd1b48c.mp4
+
+
+
 ## Introduction:
 
 GlobeScanner brings in a platform to connect the agencies providing tour packages with the people planning their trips. Using Globescanner, it will be easier for local tour guides to market their tour packages to the tourists directly and the tourists will also be able to make an informed choice on which tour package or tour guide will suit their budget and requirements to the best. It is also used to locate the places to visit in an area helping users plan their trips better. Know what other users have to say, plan your trip accordingly.
