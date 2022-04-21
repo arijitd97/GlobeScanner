@@ -2,9 +2,15 @@
 
 # GlobeScanner
 
-## Project topic and motivation:
+![alt text](https://github.com/arijitd97/GlobeScanner/blob/main/Logo.jpg?raw=true)
 
-The United Nations World Tourism Organization (UNWTO) estimates that internationally there were just 25 million tourist arrivals in 1950. 68 years later this number has increased to 1.4 billion international arrivals per year. This is a 56-fold increase. Thus, it is necessary that the tourists can plan their trip effectively and find the places they can visit and their reviews on a single platform. Also, with the boom in the tourism sector many agencies and small scale tourist guides need a platform to advertise their deals. GlobeScanner brings in a platform to connect the agencies providing tour packages with the people planning their trips. Using Globescanner, it will be easier for local tour guides to market their tour packages to the tourists directly and the tourists will also be able to make an informed choice on which tour package or tour guide will suit their budget and requirements to the best.
+## Introduction:
+
+GlobeScanner brings in a platform to connect the agencies providing tour packages with the people planning their trips. Using Globescanner, it will be easier for local tour guides to market their tour packages to the tourists directly and the tourists will also be able to make an informed choice on which tour package or tour guide will suit their budget and requirements to the best. It is also used to locate the places to visit in an area helping users plan their trips better. Know what other users have to say, plan your trip accordingly.
+
+## Motivation:
+
+The United Nations World Tourism Organization (UNWTO) estimates that internationally there were just 25 million tourist arrivals in 1950. 68 years later this number has increased to 1.4 billion international arrivals per year. This is a 56-fold increase. Thus, it is necessary that the tourists can plan their trip effectively and find the places they can visit and their reviews on a single platform. Also, with the boom in the tourism sector many agencies and small scale tourist guides need a platform to advertise their deals.
 
 ## User roles
 1. Tourist - People who wants to plan a trip and are searching for places to visit along with tour packages.
@@ -68,6 +74,8 @@ Sprint 4: https://github.com/arijitd97/GlobeScanner/projects/4
 
 # How to run the project
 
+Clone the project from https://github.com/arijitd97/GlobeScanner.git
+
 ## Backend
 
 Go to server folder and run the command 'go run .' to start the server.
@@ -76,10 +84,6 @@ Command to test backend in server folder - go test
 
 
 ## Frontend
-
-### Running the project
-
-Clone the project from https://github.com/arijitd97/GlobeScanner.git
 
 run the below steps in the terminal-</br>
 npm install</br>
