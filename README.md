@@ -65,24 +65,20 @@ Sprint 4: https://github.com/arijitd97/GlobeScanner/projects/4
 1. Frontend - Angular JS
 2. Backend - Go
 
-# Testing
-**Front-End(Cypress)**
-
-**Back-End(Postman and Go Unit tests)**
 
 # How to run the project
 
 ## Backend
 
-**Go to server folder and run the command 'go run .' to start the server.**
+Go to server folder and run the command 'go run .' to start the server.
 
-**Command to test backend in server folder- go test**
+Command to test backend in server folder - go test
 
 
 ## Frontend
 
-**go to  Frontend folder and run the command 'ng serve' to start the client**
+Go to  Frontend folder and run the command 'ng serve' to start the client
 
-**Command to test frontend in Frontend folder - npx cypress open**
+Command to test frontend in Frontend folder - npx cypress open
 
 
