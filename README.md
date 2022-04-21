@@ -77,20 +77,18 @@ Command to test backend in server folder - go test
 
 ## Frontend
 
-# Running the project
+### Running the project
 
 Clone the project from https://github.com/arijitd97/GlobeScanner.git
 run the below steps in the terminal -- npm i -- ng serve --o
 
 Cypress Tests
-Steps:-
 
+Steps:-
 npm install cypress
 
 In package.json :-
-
 "scripts": { [....] "cypress:open": "cypress open", "cypress:run": "cypress run", "cypress": "cypress open" },
 
 To Run :-
-
 npm run cypress
