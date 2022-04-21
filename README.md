@@ -2,11 +2,10 @@
 
 # GlobeScanner
 
-![alt text](https://github.com/arijitd97/GlobeScanner/blob/main/Logo.jpg?raw=true)
 
 
+![Globescanner1](https://user-images.githubusercontent.com/56683039/164520810-3cbd8bdd-96c0-4f3c-b68f-05a40cd45059.gif)
 
-![GlobeScanner](https://user-images.githubusercontent.com/56683039/164518940-82a3202a-a563-4331-9d9e-801ce581dc1e.gif)
 
 
 
